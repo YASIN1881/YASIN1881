@@ -33,6 +33,9 @@ Here are some ideas to get you started:
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />-->
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/html-icon.svg" alt="icon"width="50" height="50">
+  <img src="https://techstack-generator.vercel.app/css-icon.svg" alt="icon"width="50" height="50">
+  <img src="https://techstack-generator.vercel.app/tailwindcss-icon.svg" alt="icon"width="50" height="50">
   <!--<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />-->
 </div>
@@ -63,7 +66,7 @@ Here are some ideas to get you started:
 
 - 📄 Know about my experiences [my experiences](http://supun.traditionalme.life/#resume)
 
-- ⚡ Fun fact **I think I'm funny**
+- ⚡ Fun fact **I think I love coffee**
 
 <br>
 <h3 align="left">Connect with me:</h3>
