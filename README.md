@@ -33,7 +33,7 @@ Here are some ideas to get you started:
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />-->
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50" height="50" />
-  <img src="https://app.lottiefiles.com/animation/2fc7ffc7-cb54-4807-adcc-94b0d0de471f" alt="icon"width="50" height="50">
+  <img src="https://lottie.host/3ae84c4e-8beb-4fc8-840e-ba1df73bf6e9/MumagtnUGW.json" alt="icon"width="50" height="50">
   <img src="https://techstack-generator.vercel.app/css-icon.svg" alt="icon"width="50" height="50">
   <img src="https://techstack-generator.vercel.app/tailwindcss-icon.svg" alt="icon"width="50" height="50">
   <!--<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
