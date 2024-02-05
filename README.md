@@ -91,14 +91,14 @@ Here are some ideas to get you started:
     <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
   </a>
 </p>
---
+
 - Database
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mongodb" />
   </a>
 </p>
---
+
 <!--
 - Cloud Servers
 <p align="left">
@@ -114,7 +114,7 @@ Here are some ideas to get you started:
     <img src="https://skillicons.dev/icons?i=git,github,figma,xd,idea,vscode,linux" />
   </a>
 </p>
--->
+
 <br/>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
@@ -144,7 +144,6 @@ Here are some ideas to get you started:
 
 </div>
 
-<br><br>
+<br>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
